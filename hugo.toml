@@ -39,6 +39,7 @@ defaultContentLanguage = "pl"
     pre = ""
     # you can add extra information after the name (HTML format is supported), such as icons
     post = ""
+    name = "Posty"
     url = "/posts/"
     # title will be shown when you hover on this menu link
     title = ""
@@ -47,6 +48,7 @@ defaultContentLanguage = "pl"
     identifier = "tags"
     pre = ""
     post = ""
+    name = "Tagi"
     url = "/tags/"
     title = ""
   [[menu.main]]
@@ -54,6 +56,7 @@ defaultContentLanguage = "pl"
     identifier = "categories"
     pre = ""
     post = ""
+    name = "Kategorie"
     url = "/categories/"
     title = ""
 
