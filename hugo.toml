@@ -1,6 +1,7 @@
 # Base config
 baseURL = 'https://jankrl.github.io/ola-portfolio/'
 theme = 'LoveIt'
+title = "Przykładowe portfolio dla Oli"
 
 # Language config
 languageCode = 'pl'
@@ -11,9 +12,10 @@ languageName = 'Polski'
 
 [params]
   title = "Przykładowe portfolio dla Oli"
-  description = 'Dodatkowy opis strony...'
   [params.author]
     name = "Aleksandra"
+  [params.profile]
+    subtitle = 'Dodatkowy opis strony...'
 
 # Menu
 [menu]
