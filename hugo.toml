@@ -4,8 +4,7 @@ theme = "LoveIt"
 title = "Przykładowe portfolio dla Oli"
 
 # Language config
-languageCode = "pl_PL"
-languageName = "Polski"
+languageCode = "pl"
 
 # Site configuration
 # https://hugoloveit.com/theme-documentation-basics/#site-configuration
