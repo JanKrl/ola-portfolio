@@ -8,9 +8,10 @@ languageName = 'Polski'
 
 # Site configuration
 # https://hugoloveit.com/theme-documentation-basics/#site-configuration
-title = 'Przykładowe portfolio dla Oli'
-description = 'Dodatkowy opis strony...'
+
 [params]
+  title = "Przykładowe portfolio dla Oli"
+  description = 'Dodatkowy opis strony...'
   [params.author]
     name = "Aleksandra"
 
