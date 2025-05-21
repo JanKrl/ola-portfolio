@@ -21,6 +21,10 @@ languageName = "Polski"
   [params.home]
     [params.home.profile]
       subtitle = "Witaj na moim portfolio!"
+  [params.section]
+    dateFormat = ":date_medium"
+  [params.list]
+    dateFormat = ":date_medium"
 
 # Menu
 [menu]
