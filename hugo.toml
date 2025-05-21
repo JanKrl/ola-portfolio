@@ -5,6 +5,7 @@ title = "Przykładowe portfolio dla Oli"
 
 # Language config
 languageCode = "pl"
+defaultContentLanguage = "pl"
 [languages]
   [languages.pl]
     languageName = "Polski"
