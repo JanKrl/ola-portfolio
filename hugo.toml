@@ -1,11 +1,11 @@
 # Base config
-baseURL = 'https://jankrl.github.io/ola-portfolio/'
-theme = 'LoveIt'
+baseURL = "https://jankrl.github.io/ola-portfolio/"
+theme = "LoveIt"
 title = "Przykładowe portfolio dla Oli"
 
 # Language config
-languageCode = 'pl'
-languageName = 'Polski'
+languageCode = "pl"
+languageName = "Polski"
 
 # Site configuration
 # https://hugoloveit.com/theme-documentation-basics/#site-configuration
@@ -15,9 +15,12 @@ languageName = 'Polski'
   [params.author]
     name = "Aleksandra"
   [params.header]
-    subtitle = 'Dodatkowy opis strony...'
+    subtitle = "Aleksandra"
     [params.header.title]
       name = "Przykładowe portfolio dla Oli"
+  [params.home]
+    [params.home.profile]
+      subtitle = "Witaj na moim portfolio!"
 
 # Menu
 [menu]
