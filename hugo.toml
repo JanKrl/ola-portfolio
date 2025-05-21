@@ -5,6 +5,10 @@ title = "Przykładowe portfolio dla Oli"
 
 # Language config
 languageCode = "pl"
+[languages]
+  [languages.pl]
+    languageName = "Polski"
+    weight = 1
 
 # Site configuration
 # https://hugoloveit.com/theme-documentation-basics/#site-configuration
