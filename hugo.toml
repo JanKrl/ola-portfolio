@@ -14,8 +14,10 @@ languageName = 'Polski'
   title = "Przykładowe portfolio dla Oli"
   [params.author]
     name = "Aleksandra"
-  [params.profile]
+  [params.header]
     subtitle = 'Dodatkowy opis strony...'
+    [params.header.title]
+      name = "Przykładowe portfolio dla Oli"
 
 # Menu
 [menu]
@@ -35,7 +37,7 @@ languageName = 'Polski'
     identifier = "tags"
     pre = ""
     post = ""
-    name = "Tags"
+    name = "Tagi"
     url = "/tags/"
     title = ""
   [[menu.main]]
@@ -43,7 +45,7 @@ languageName = 'Polski'
     identifier = "categories"
     pre = ""
     post = ""
-    name = "Categories"
+    name = "Kategorie"
     url = "/categories/"
     title = ""
 
