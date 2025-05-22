@@ -3,8 +3,6 @@ baseURL = "https://jankrl.github.io/ola-portfolio/"
 theme = "LoveIt"
 title = "Przykładowe portfolio dla Oli"
 
-publishDir = "docs"
-
 # Language config
 languageCode = "pl"
 defaultContentLanguage = "pl"
