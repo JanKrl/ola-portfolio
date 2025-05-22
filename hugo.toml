@@ -24,7 +24,7 @@ defaultContentLanguage = "pl"
       name = "Przykładowe portfolio dla Oli"
   [params.home]
     [params.home.profile]
-      subtitle = "Witaj na moim portfolio!"
+      subtitle = "Aleksandra - portfolio tekstów!"
   [params.section]
     dateFormat = "02-Jan-2006"
   [params.list]
